@@ -13,6 +13,7 @@ tags:
   - valve_plate
 Ссылка: https://drive.google.com/file/d/1NbPmYsncNNMrbRsBcp3m3kuCEc1rUnIW/view
 Дата публикации: "07.2018"
+Авторы: Emma Frosina, Adolfo Senatore, Gianluca Marinaro, Michele Pavanetto
 Оценка: 3
 ---
 ## Краткое описание
