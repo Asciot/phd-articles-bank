@@ -2,6 +2,7 @@
 Авторы: Zhaoqiang Wang, Lingtao Sun, Bo Han, Xiaoqiang Wang and Zhiwei Ge
 Дата публикации: 02.11.2022
 Ссылка: https://drive.google.com/file/d/14o0G4L5DO7vQN9gufNKUx60EMLfkXwVr/view?usp=sharing
+Оценка: 3
 tags:
   - 1D-model
   - cylinder-block
