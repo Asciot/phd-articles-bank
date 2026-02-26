@@ -1,4 +1,7 @@
 ---
+Авторы: Emma Frosina, Adolfo Senatore, Gianluca Marinaro, Michele Pavanetto
+Дата публикации: "07.2018"
+Ссылка: https://drive.google.com/file/d/1NbPmYsncNNMrbRsBcp3m3kuCEc1rUnIW/view
 tags:
   - 1D-model
   - axial-piston
@@ -7,12 +10,10 @@ tags:
   - cylinder-block
   - groove
   - hydraulics
-  - Math_model
+  - math_model
   - pump
   - topic1
   - valve_plate
-Ссылка: https://drive.google.com/file/d/1NbPmYsncNNMrbRsBcp3m3kuCEc1rUnIW/view
-Дата публикации: "07.2018"
 ---
 ## Краткое описание
 
