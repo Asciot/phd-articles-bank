@@ -5,3 +5,6 @@
 Рейтинг: 3
 ---
 Ссылка: https://drive.google.com/file/d/1NbPmYsncNNMrbRsBcp3m3kuCEc1rUnIW/view
+
+Тэги:
+#axial-piston , #pump , #groove, #hydraulics, #topic1, #CFD, #Math_model, #1D-model, #cylinder, #cylinder-block, #valve_plate.
