@@ -1,11 +1,20 @@
 ---
-Название статьи: Effects of PCFV and Pre-Compression Groove on the Flow Ripple Reduction in Axial Piston Pumps
-Автор(ы): Emma Frosina, Adolfo Senatore, Gianluca Marinaro, Michele Pavanetto
-Аннотация: В данной работе исследовались оптимизации конструкции диска для уменьшения шума работы АПГМ. Рассматривалось добавление канавок на поверхности распределительного диска, выполнение специальных аккумулирующих отверстий. Модель вязкости для сосредоточенных параметров, кавитация - частное решение Навье-Стокса. CFD расчёт k-eps. 1500 об/мин.
-Рейтинг: 3
----
-
+tags:
+  - 1D-model
+  - axial-piston
+  - CFD
+  - cylinder
+  - cylinder-block
+  - groove
+  - hydraulics
+  - Math_model
+  - pump
+  - topic1
+  - valve_plate
 Ссылка: https://drive.google.com/file/d/1NbPmYsncNNMrbRsBcp3m3kuCEc1rUnIW/view
+Дата публикации: "07.2018"
+Оценка: 3
+---
+## Краткое описание
 
-Тэги:
-#axial-piston , #pump , #groove, #hydraulics, #topic1, #CFD, #Math_model, #1D-model, #cylinder, #cylinder-block, #valve_plate.
+В данной работе исследовались оптимизации конструкции распределительного диска для уменьшения шума работы АПГМ. Рассматривалось добавление канавок на поверхности распределительного диска, выполнение специальных аккумулирующих отверстий. Модель вязкости для сосредоточенных параметров, кавитация - частное решение Навье-Стокса. CFD расчёт k-eps. 1500 об/мин.
